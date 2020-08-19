@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
 
-[<img src = "https://now-playing-novatorem.justinkwan20.vercel.app/api/spotify-playing" alt="Justin Kwan Spotify Playing" width="350" />]
+[<img src = "https://now-playing-justinkwan20.vercel.app/api/spotify-playing" alt="Justin Kwan Spotify Playing" width="350" />]
 (https://open.spotify.com/user/justinkwan.12.k)
 [![Spotify](https://novatorem.justinkwan20.vercel.app/api/spotify-playing)](https://open.spotify.com/user/justinkwan.12.k)
