@@ -1,6 +1,6 @@
 # Justin Kwan
 ## Hi there 👋
-I'm recent grad 🎓 of the class of 2020 that enjoy's volunteering 🤝, cycling 🚲, and meeting new people 😊. <br>
+I'm recent grad 🎓 of the class of 2020 that enjoy's volunteering 🤝, cycling 🚲, and meeting new people 😊. <br> I'm a child at ♥️
 
 <!--
 **justinkwan20/justinkwan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
