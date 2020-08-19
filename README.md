@@ -28,9 +28,3 @@ Here are some ideas to get you started:
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-
-
-### Spotify Playing 🎧
-[<img src = "https://novatorem.justinkwan20.vercel.app/api/spotify-playing" alt="Justin Kwan Spotify Playing" width="350" />]
-(https://open.spotify.com/user/justinkwan.12.k)
-&nbsp; <br>[![Spotify](https://novatorem.justinkwan20.vercel.app/api/spotify-playing)](https://open.spotify.com/user/justinkwan.12.k)
