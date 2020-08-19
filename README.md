@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ### Spotify Playing 🎧
 [<img src = "https://novatorem.justinkwan20.vercel.app/api/spotify-playing" alt="Justin Kwan Spotify Playing" width="350" />]
 (https://open.spotify.com/user/justinkwan.12.k)
-[![Spotify](https://novatorem.justinkwan20.vercel.app/api/spotify-playing)](https://open.spotify.com/user/justinkwan.12.k)
+&nbsp; <br>[![Spotify](https://novatorem.justinkwan20.vercel.app/api/spotify-playing)](https://open.spotify.com/user/justinkwan.12.k)
