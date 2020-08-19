@@ -3,7 +3,7 @@
 I'm recent grad 🎓 of the class of 2020 that enjoy's volunteering 🤝, cycling 🚲, and meeting new people 😊. <br>
 
 <div align="center"> Service to others is the rent you 💲 for your room here on earth 🌎 </div>
-->Muhammad Ali<-
+<div align="center"> Muhammad Ali </div>
 
 <!--
 **justinkwan20/justinkwan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
