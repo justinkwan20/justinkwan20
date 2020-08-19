@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ... <br>
 👯 I’m looking to collaborate on ... <br>
 🤔 I’m looking for help with ... <br>
+❤️ I'm a child at heart <br>
 💬 Ask me about ... <br>
 📫 How to reach me: ... <br>
 😄 Pronouns: ... <br>
