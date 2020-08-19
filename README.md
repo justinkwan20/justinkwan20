@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 ## My Favorite Quote
 <div align="center"> Service to others is the rent you 💲 for your room here on earth 🌎 </div>
 <div align="center"> Muhammad Ali </div>
+
 ## About Me
 🔭 I’m currently working on ... <br>
 🌱 I’m currently learning ... <br>
