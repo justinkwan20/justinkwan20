@@ -1,5 +1,5 @@
 # Justin Kwan
-Hi there 👋
+### Hi there 👋
 I'm recent grad 🎓 of the class of 2020 and I'm currently looking for experience!
 <!--
 **justinkwan20/justinkwan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,14 +7,14 @@ I'm recent grad 🎓 of the class of 2020 and I'm currently looking for experien
 Here are some ideas to get you started:
 -->
 ## About Me
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: I can't dance🕺
+🔭 I’m currently working on ... <br>
+🌱 I’m currently learning ... <br>
+👯 I’m looking to collaborate on ... <br>
+🤔 I’m looking for help with ... <br>
+💬 Ask me about ... <br>
+📫 How to reach me: ... <br>
+😄 Pronouns: ... <br>
+⚡ Fun fact: I can't dance🕺 <br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
