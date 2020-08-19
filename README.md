@@ -1,6 +1,6 @@
 # Justin Kwan
 ### Hi there 👋
-I'm recent grad 🎓 of the class of 2020 and I'm currently looking for experience!
+I'm recent grad 🎓 of the class of 2020 that hopes to change the world 🌎 by giving back 👐 to communities that I have been a part of.
 <!--
 **justinkwan20/justinkwan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
