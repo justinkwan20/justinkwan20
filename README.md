@@ -2,7 +2,7 @@
 ## Hi there 👋
 I'm recent grad 🎓 of the class of 2020 that enjoy's volunteering 🤝, cycling 🚲, and meeting new people 😊. <br>
 
-<p style="text-align: center;"> Service to others is the rent you 💲 for your room here on earth 🌎 </p>
+<div align="center"> Service to others is the rent you 💲 for your room here on earth 🌎 </div>
 ->Muhammad Ali<-
 
 <!--
