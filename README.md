@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 <div align="center"> Muhammad Ali </div>
 
 ## About Me
-🔭 I’m currently working on ... <br>
-🌱 I’m currently learning ... <br>
-👯 I’m looking to collaborate on ... <br>
-🤔 I’m looking for help with ... <br>
+🔭 I’m currently working on my own personal website <br>
+🌱 I’m currently learning Spanish <br>
+👯 I’m looking to collaborate on anything <br>
+🤔 I’m looking for help with learning front end<br>
 ❤️ I'm a child at heart <br>
-💬 Ask me about ... <br>
-📫 How to reach me: ... <br>
+💬 Ask me about my favorite childhood tv 📺 show <br>
+📫 How to reach me: my email jwkwan@bu.edu <br>
 😄 Pronouns: ... <br>
 ⚡ Fun fact: I can't dance🕺 <br>
 
