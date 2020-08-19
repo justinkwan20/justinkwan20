@@ -7,6 +7,9 @@ I'm recent grad 🎓 of the class of 2020 that enjoy's volunteering 🤝, cyclin
 
 Here are some ideas to get you started:
 -->
+## My Favorite Quote
+<div align="center"> Service to others is the rent you 💲 for your room here on earth 🌎 </div>
+<div align="center"> Muhammad Ali </div>
 ## About Me
 🔭 I’m currently working on ... <br>
 🌱 I’m currently learning ... <br>
@@ -16,9 +19,7 @@ Here are some ideas to get you started:
 📫 How to reach me: ... <br>
 😄 Pronouns: ... <br>
 ⚡ Fun fact: I can't dance🕺 <br>
-## My Favorite Quote
-<div align="center"> Service to others is the rent you 💲 for your room here on earth 🌎 </div>
-<div align="center"> Muhammad Ali </div>
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
