@@ -1,6 +1,7 @@
 # Justin Kwan
-### Hi there 👋
-I'm recent grad 🎓 of the class of 2020 that hopes to change the world 🌎 by giving back 👐 to communities that I have been a part of.
+## Hi there 👋
+I'm recent grad 🎓 of the class of 2020 that enjoy's volunteering 🤝 and helping others 😇.
+> Service to others is the rent you 💲 for your room here on earth 🌎 - Muhammad Ali
 <!--
 **justinkwan20/justinkwan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
