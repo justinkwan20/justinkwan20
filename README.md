@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-https://vercel.com/justinkwan20/novatorem/settings/environment-variables
+[![Spotify](https://novatorem.justinkwan20.vercel.app/api/spotify-playing)](https://open.spotify.com/user/justinkwan.12.k)
