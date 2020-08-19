@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 <div align="center"> Muhammad Ali </div>
 
 ## About Me
-🔭 I’m currently working on my own personal website <br>
-🌱 I’m currently learning Spanish <br>
+🔭 I’m currently working on my own personal website 🖥 <br>
+🌱 I’m currently learning Spanish 💬<br>
 👯 I’m looking to collaborate on anything <br>
 🤔 I’m looking for help with learning front end<br>
 ❤️ I'm a child at heart <br>
