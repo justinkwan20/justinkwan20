@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 👶 I'm a child at heart ❤️ <br>
 💬 Ask me about my favorite childhood tv 📺 show <br>
 📫 How to reach me: my email jwkwan@bu.edu <br>
-😄 Pronouns: ... <br>
 ⚡ Fun fact: I can't dance🕺 <br>
 
 
