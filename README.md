@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on my own personal website 🖥 <br>
 🌱 I’m currently learning Spanish 💬<br>
 👯 I’m looking to collaborate on anything <br>
-🤔 I’m looking for help with learning front end<br>
+🤔 I'm thinking about how I can be a better person<br>
 👶 I'm a child at heart ❤️ <br>
 💬 Ask me about my favorite childhood tv 📺 show <br>
 📫 How to reach me: my email jwkwan@bu.edu <br>
